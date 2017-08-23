@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Astar.Form1">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <Members>
+      <Field Name="btnClearPath" Hidden="true" />
+      <Field Name="btnConnect" Hidden="true" />
+      <Field Name="btnCreateObs" Hidden="true" />
+      <Field Name="btnEndPoint" Hidden="true" />
+      <Field Name="btnImportMap" Hidden="true" />
+      <Field Name="btnNavigate" Hidden="true" />
+      <Field Name="btnSimulate" Hidden="true" />
+      <Field Name="btnStartPoint" Hidden="true" />
+      <Field Name="cbSerialName" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Field Name="serialPort" Hidden="true" />
+      <Field Name="toolTip1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QQIAiIEBCKIIaAIAAACgCGACCAAKCI8qE1zoCABAQAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
